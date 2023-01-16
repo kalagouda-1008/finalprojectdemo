@@ -19,4 +19,5 @@ org/training/controller/AdminLoginController.class
 org/training/service/PaymentService.class
 org/training/controller/SearchHotelController.class
 org/training/entity/PaymentDetails.class
+org/training/ServletInitializer.class
 org/training/controller/MainController.class
